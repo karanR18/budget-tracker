@@ -160,7 +160,7 @@ bar_chart = alt.Chart(melted).mark_bar().encode(
     xOffset="Type:N",
     tooltip=["Type", "Amount", "DayLabel"]
 ).properties(
-    width="container",get
+    width="container",
     height=400
 ).configure_axisX(
     labelAngle=-45
