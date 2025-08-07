@@ -11,9 +11,3 @@ A simple and interactive personal finance tracker built using Python, Streamlit,
 
 ## 🧰 Tech Stack
 Python, Streamlit, Pandas, Altair
-
-## ▶️ Run Locally
-
-```bash
-pip install -r requirements.txt
-streamlit run app.py
