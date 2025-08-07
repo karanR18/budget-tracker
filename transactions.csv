@@ -1,0 +1,5 @@
+Date,Category,Amount,Note,Type,Month
+2025-08-07 00:00:00,Salary,15000.0,,Income,2025-08
+2025-08-07 00:00:00,Rent,-2400.0,mess,Expense,2025-08
+2025-08-07 00:00:00,Groceries,-200.0,,Expense,2025-08
+2025-08-07,Gifts,500.0,,Income,
